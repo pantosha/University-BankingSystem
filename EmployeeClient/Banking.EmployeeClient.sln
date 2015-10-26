@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Common", "ShipGroup.Common\ShipGroup.Common.csproj", "{4A33895E-9F0D-4FD7-9C72-E2F1BCAD6DFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Common", "..\Shared\ShipGroup.Common\ShipGroup.Common.csproj", "{4A33895E-9F0D-4FD7-9C72-E2F1BCAD6DFE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{6DDBB0CC-D6CB-4B72-9D27-5C98942FE579}"
 EndProject
