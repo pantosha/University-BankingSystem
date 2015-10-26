@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Common", "ShipGroup.Common\ShipGroup.Common.csproj", "{4A33895E-9F0D-4FD7-9C72-E2F1BCAD6DFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Common", "..\Shared\ShipGroup.Common\ShipGroup.Common.csproj", "{4A33895E-9F0D-4FD7-9C72-E2F1BCAD6DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Repositories", "ShipGroup.Repositories\ShipGroup.Repositories.csproj", "{23500F81-7950-4CF9-96CC-684F2C84A551}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Repositories", "..\Shared\ShipGroup.Repositories\ShipGroup.Repositories.csproj", "{23500F81-7950-4CF9-96CC-684F2C84A551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Repositories.EntityFramework", "ShipGroup.Repositories.EntityFramework\ShipGroup.Repositories.EntityFramework.csproj", "{C2CFFF4B-7E30-4F37-882E-B3277599067D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipGroup.Repositories.EntityFramework", "..\Shared\ShipGroup.Repositories.EntityFramework\ShipGroup.Repositories.EntityFramework.csproj", "{C2CFFF4B-7E30-4F37-882E-B3277599067D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{35D2AC2A-6035-469D-BFD2-17E37714D070}"
 EndProject

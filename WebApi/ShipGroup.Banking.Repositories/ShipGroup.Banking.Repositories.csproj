@@ -59,7 +59,7 @@
       <Project>{32da3bec-a03a-4cd8-9719-c31526d94a45}</Project>
       <Name>ShipGroup.Banking.DomainModel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ShipGroup.Repositories.EntityFramework\ShipGroup.Repositories.EntityFramework.csproj">
+    <ProjectReference Include="..\..\Shared\ShipGroup.Repositories.EntityFramework\ShipGroup.Repositories.EntityFramework.csproj">
       <Project>{c2cfff4b-7e30-4f37-882e-b3277599067d}</Project>
       <Name>ShipGroup.Repositories.EntityFramework</Name>
     </ProjectReference>
